@@ -14,6 +14,8 @@ Initial commit. Lot's of things still need to be done:
 - list in detail all 3rd party dependencies (ptypes, zlib, xerces etc.) 
 - show use cases and provide examples
 
-This library was build to make large C++ projects easier and more productive. It was based on the 1.6 Java version.
+This library was build to make large C++ projects easier and more productive. It was based at that time on the 1.6 Java version. 
+
+To get started first have a look at all the headers in 'PublicInterfaces'. It gives you an overview of what is available.
 
 More to come.
