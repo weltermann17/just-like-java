@@ -5,7 +5,8 @@
 *.data
 *.hl
 *.dico
-ImportedInterfaces/*
-IdentityCard/*
+**/ImportedInterfaces/*
+**/IdentityCard/*
 **/LocalGenerated/*
 **/Objects/*
+*.text
