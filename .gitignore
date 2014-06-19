@@ -1,0 +1,11 @@
+*.mkDG
+*.file
+*.map
+*.o
+*.data
+*.hl
+*.dico
+ImportedInterfaces/*
+IdentityCard/*
+**/LocalGenerated/*
+**/Objects/*
