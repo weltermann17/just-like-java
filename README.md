@@ -23,4 +23,4 @@ Some sample code:
 
 [ServiceProvider.cpp](https://gist.github.com/weltermann17/9038e664e7f760e70188#file-serviceprovider-cpp)
 
-More to comme.
+More to come.
