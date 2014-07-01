@@ -19,4 +19,8 @@ This library was build to make large C++ projects easier and more productive. It
 
 To get started first have a look at all the headers in 'PublicInterfaces'. It gives you an overview of what is available.
 
-More to come.
+Some sample code:
+
+[ServiceProvider.cpp](https://gist.github.com/weltermann17/9038e664e7f760e70188#file-serviceprovider-cpp)
+
+More to comme.
